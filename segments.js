@@ -112,8 +112,19 @@ export function showSegmentDetails(seg){
         }
     }
 
+    const num_attempts = seg.kings_data.attempts.length;
+
     seg.kings_data.attempts.forEach(attempt => {
-        html += `<br><span class = "bold">attempt ${attempt.poging_nr}</span>`
+        if(attempt.attempt_title){
+            html += `<br><span class = "bold">${attempt.attempt_title}</span>`
+        } else{
+            if(num_attempts > 1){
+                html += `<br><span class = "bold">Attempt ${attempt.poging_nr}</span>`
+            }
+            else{
+                html += `<br><span class = "bold">KOM attempt</span>`
+            }
+        }
         attempt.posts.forEach(post => {
             if(post.beschrijving){
                 html += `<br>${post.beschrijving}<br>`

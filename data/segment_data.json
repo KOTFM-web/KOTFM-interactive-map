@@ -37,8 +37,8 @@
       "polyline": "}sguH}t_U~AwCPSxDuDr@i@TWt@g@l@{@XWt@{@R[^eA^kBV{Av@oJHkCEwCGoAK_BUaCE{@VgCBcAE_@s@oEIy@I}C@uBPmEZ{CT}CHgCHs@V_BhByJv@}E",
       "resource_state": 3
     },
-    "effort_count": 94859,
-    "athlete_count": 31762,
+    "effort_count": 94976,
+    "athlete_count": 31796,
     "star_count": 291,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -62,11 +62,11 @@
       "athlete_id": 37131802,
       "title": "Hasan Thooft",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37131802/11047290/3/large.jpg",
-      "effort_description": "21 efforts in the last 90 days",
-      "effort_count": "21",
+      "effort_description": "19 efforts in the last 90 days",
+      "effort_count": "19",
       "effort_counts": {
-        "overall": "21 efforts",
-        "female": "3 efforts"
+        "overall": "19 efforts",
+        "female": "4 efforts"
       },
       "destination": "strava://segments/803856/local_legend?categories%5B%5D=overall"
     },
@@ -117,9 +117,9 @@
       "polyline": "gnguHeg_VKuAe@_DIy@BeAlAgP`BuOJs@p@eDv@kCXoARwADsBn@eE\\yA",
       "resource_state": 3
     },
-    "effort_count": 412805,
-    "athlete_count": 104296,
-    "star_count": 4761,
+    "effort_count": 413250,
+    "athlete_count": 104411,
+    "star_count": 4769,
     "athlete_segment_stats": {
       "pr_elapsed_time": 131,
       "pr_date": "2023-05-28",
@@ -146,7 +146,7 @@
       "effort_count": "66",
       "effort_counts": {
         "overall": "66 efforts",
-        "female": "7 efforts"
+        "female": "8 efforts"
       },
       "destination": "strava://segments/608903/local_legend?categories%5B%5D=overall"
     },
@@ -156,7 +156,36 @@
       "ourKOM": true,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 27,
+              "naam_segment": "Berendries",
+              "instagram_link": "https://www.instagram.com/p/DLCekZNMzQj/",
+              "segment_id": 608903,
+              "poging_nr": 1,
+              "beschrijving": "Who is our guest Queen for today?",
+              "fail_succes": "fail",
+              "volgorde": 1,
+              "alternative_attempt_title": "QOM attempt"
+            },
+            {
+              "post_id": 28,
+              "naam_segment": "Berendries",
+              "instagram_link": "https://instagram.com/p/DLFcbp8NMDb/",
+              "segment_id": 608903,
+              "poging_nr": 1,
+              "beschrijving": "QOM attempt onboard",
+              "fail_succes": "fail",
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": "QOM attempt"
+        }
+      ]
     }
   },
   {
@@ -197,9 +226,9 @@
       "polyline": "ysiuHe`~UUkCJgPOOsAy@GMWaFBo@Fo@J]hByBLWHWH{@Q}B]eCi@qC]sGG]Wk@UO}Ba@OKIOCc@xA{I@s@Ku@oCcM",
       "resource_state": 3
     },
-    "effort_count": 53230,
-    "athlete_count": 20579,
-    "star_count": 1793,
+    "effort_count": 53322,
+    "athlete_count": 20620,
+    "star_count": 1797,
     "athlete_segment_stats": {
       "pr_elapsed_time": 178,
       "pr_date": "2023-05-28",
@@ -222,10 +251,10 @@
       "athlete_id": 154907345,
       "title": "Peter Ballet",
       "profile": "avatar/athlete/large.png",
-      "effort_description": "19 efforts in the last 90 days",
-      "effort_count": "19",
+      "effort_description": "18 efforts in the last 90 days",
+      "effort_count": "18",
       "effort_counts": {
-        "overall": "19 efforts",
+        "overall": "18 efforts",
         "female": "4 efforts"
       },
       "destination": "strava://segments/19631558/local_legend?categories%5B%5D=overall"
@@ -277,9 +306,9 @@
       "polyline": "cw}tHm`iUrB_DXULAPD|ApAT@JKFOTwB^i@pBcBnEqCrE}BzDyDzBcC~BoFfDeF",
       "resource_state": 3
     },
-    "effort_count": 134495,
-    "athlete_count": 55253,
-    "star_count": 2128,
+    "effort_count": 134592,
+    "athlete_count": 55310,
+    "star_count": 2129,
     "athlete_segment_stats": {
       "pr_elapsed_time": 169,
       "pr_date": "2021-05-01",
@@ -302,11 +331,11 @@
       "athlete_id": 37131802,
       "title": "Hasan Thooft",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37131802/11047290/3/large.jpg",
-      "effort_description": "11 efforts in the last 90 days",
-      "effort_count": "11",
+      "effort_description": "9 efforts in the last 90 days",
+      "effort_count": "9",
       "effort_counts": {
-        "overall": "11 efforts",
-        "female": "2 efforts"
+        "overall": "9 efforts",
+        "female": "3 efforts"
       },
       "destination": "strava://segments/19645532/local_legend?categories%5B%5D=overall"
     },
@@ -316,7 +345,25 @@
       "ourKOM": false,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 24,
+              "naam_segment": "Berg ten houte",
+              "instagram_link": "https://www.instagram.com/p/DKNGZ-us1NG/",
+              "segment_id": 19645532,
+              "poging_nr": 1,
+              "beschrijving": "KOM attempt onboard",
+              "fail_succes": "fail",
+              "volgorde": 1,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": null
+        }
+      ]
     }
   },
   {
@@ -357,8 +404,8 @@
       "polyline": "eqcuH}zmUw@u@MGuBe@wABy@Rc@DY?s@[aAWu@[yAa@IAcBFa@?Q?OIMOa@_Ae@o@[k@wBaC{AmBc@e@u@m@cAeAs@k@c@c@Q]c@uAWg@QMy@]aBe@o@GY@oAR_BIsA?K@c@J}B|@kA^q@[Ye@m@}@UUCA",
       "resource_state": 3
     },
-    "effort_count": 84178,
-    "athlete_count": 21912,
+    "effort_count": 84287,
+    "athlete_count": 21948,
     "star_count": 354,
     "athlete_segment_stats": {
       "pr_elapsed_time": 195,
@@ -382,10 +429,10 @@
       "athlete_id": 37131802,
       "title": "Hasan Thooft",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37131802/11047290/3/large.jpg",
-      "effort_description": "20 efforts in the last 90 days",
-      "effort_count": "20",
+      "effort_description": "17 efforts in the last 90 days",
+      "effort_count": "17",
       "effort_counts": {
-        "overall": "20 efforts",
+        "overall": "17 efforts",
         "female": "5 efforts"
       },
       "destination": "strava://segments/822888/local_legend?categories%5B%5D=overall"
@@ -437,8 +484,8 @@
       "polyline": "wvduHmyjU_CbAi@R_@FiAJkCz@cBd@{@T]Bu@Pq@TeAd@q@b@u@\\mAt@i@^aCtB[^Wf@w@bCI^Kv@A`AEh@]zBU`CKf@GPQTcA`A",
       "resource_state": 3
     },
-    "effort_count": 59217,
-    "athlete_count": 25303,
+    "effort_count": 59310,
+    "athlete_count": 25346,
     "star_count": 266,
     "athlete_segment_stats": {
       "pr_elapsed_time": 131,
@@ -462,10 +509,10 @@
       "athlete_id": 52379421,
       "title": "Wim Vandemaele",
       "profile": "avatar/athlete/large.png",
-      "effort_description": "8 efforts in the last 90 days",
-      "effort_count": "8",
+      "effort_description": "7 efforts in the last 90 days",
+      "effort_count": "7",
       "effort_counts": {
-        "overall": "8 efforts",
+        "overall": "7 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/17197893/local_legend?categories%5B%5D=overall"
@@ -517,9 +564,9 @@
       "polyline": "qqztHaz}V_Aqg@SmBs@mEWqBQiBEcAFmPKaF",
       "resource_state": 3
     },
-    "effort_count": 205938,
-    "athlete_count": 68841,
-    "star_count": 2610,
+    "effort_count": 206197,
+    "athlete_count": 68955,
+    "star_count": 2613,
     "athlete_segment_stats": {
       "pr_elapsed_time": 134,
       "pr_date": "2023-05-28",
@@ -542,10 +589,10 @@
       "athlete_id": 11394538,
       "title": "Johan Deschepper",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11394538/9353271/5/large.jpg",
-      "effort_description": "49 efforts in the last 90 days",
-      "effort_count": "49",
+      "effort_description": "45 efforts in the last 90 days",
+      "effort_count": "45",
       "effort_counts": {
-        "overall": "49 efforts",
+        "overall": "45 efforts",
         "female": "6 efforts"
       },
       "destination": "strava://segments/21643592/local_legend?categories%5B%5D=overall"
@@ -597,8 +644,8 @@
       "polyline": "uubuHiicUHc@^yAf@_DVcAHm@Ri@Vc@Ni@r@eArDeD|@cA|@u@HMv@s@X]~AgFDGJIL@XL`@HVR~@d@t@l@XNJJr@b@\\XfEtCHBNMPm@Ls@Ro@FOJID?TD`@XrAfArBlBTNf@NXDjAElAR`@@^INGd@a@f@y@xAuCjAqAtCyDp@w@",
       "resource_state": 3
     },
-    "effort_count": 5607,
-    "athlete_count": 3545,
+    "effort_count": 5609,
+    "athlete_count": 3544,
     "star_count": 40,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -677,9 +724,9 @@
       "polyline": "uvsuH}a_U}@eA{@_BYyC_@y@UCe@@YD_Bj@g@L{@t@a@t@Cb@_@lAk@T_BP",
       "resource_state": 3
     },
-    "effort_count": 115016,
-    "athlete_count": 35362,
-    "star_count": 189,
+    "effort_count": 115153,
+    "athlete_count": 35414,
+    "star_count": 188,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
       "pr_date": null,
@@ -702,10 +749,10 @@
       "athlete_id": 21084992,
       "title": "Rik Rosseau",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/21084992/6022970/1/large.jpg",
-      "effort_description": "17 efforts in the last 90 days",
-      "effort_count": "17",
+      "effort_description": "15 efforts in the last 90 days",
+      "effort_count": "15",
       "effort_counts": {
-        "overall": "17 efforts",
+        "overall": "15 efforts",
         "female": "5 efforts"
       },
       "destination": "strava://segments/1030580/local_legend?categories%5B%5D=overall"
@@ -757,8 +804,8 @@
       "polyline": "_wguHw{_USm@CSUaAo@kBY_AU}@Yu@c@wBy@}CWm@Ik@GIU{@KSIg@EKKGYo@Ba@CMDQC]KGEICOM_@?MKWM}AK_DSyI@s@Dg@X_AXq@b@o@p@s@z@g@NMRGVW\\QFKn@g@d@i@p@gA`@cATiARk@Zs@^cAViA\\y@`@yA\\eAx@mCTg@v@gC\\o@HKRg@",
       "resource_state": 3
     },
-    "effort_count": 133644,
-    "athlete_count": 27109,
+    "effort_count": 133817,
+    "athlete_count": 27134,
     "star_count": 462,
     "athlete_segment_stats": {
       "pr_elapsed_time": 194,
@@ -779,14 +826,14 @@
       }
     },
     "local_legend": {
-      "athlete_id": 1725761,
-      "title": "Jo Vandermeirsch",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1725761/5891017/6/large.jpg",
-      "effort_description": "30 efforts in the last 90 days",
-      "effort_count": "30",
+      "athlete_id": 82581474,
+      "title": "Remi Oyaert",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/82581474/20250901/1/large.jpg",
+      "effort_description": "26 efforts in the last 90 days",
+      "effort_count": "26",
       "effort_counts": {
-        "overall": "30 efforts",
-        "female": "17 efforts"
+        "overall": "26 efforts",
+        "female": "13 efforts"
       },
       "destination": "strava://segments/7588957/local_legend?categories%5B%5D=overall"
     },
@@ -837,9 +884,9 @@
       "polyline": "spduHg_fUoAi@iASgAKmAIaE?{DCu@D[FcDjASL_@^INg@tBo@tAuAlBq@p@k@^oAt@_F|BeAXe@Fk@R_@Tc@j@c@`AgBdF",
       "resource_state": 3
     },
-    "effort_count": 168144,
-    "athlete_count": 75995,
-    "star_count": 3086,
+    "effort_count": 168275,
+    "athlete_count": 76069,
+    "star_count": 3088,
     "athlete_segment_stats": {
       "pr_elapsed_time": 233,
       "pr_date": "2020-04-29",
@@ -862,10 +909,10 @@
       "athlete_id": 53167420,
       "title": "Tim De Rooze",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/53167420/39102748/1/large.jpg",
-      "effort_description": "9 efforts in the last 90 days",
-      "effort_count": "9",
+      "effort_description": "4 efforts in the last 90 days",
+      "effort_count": "4",
       "effort_counts": {
-        "overall": "9 efforts",
+        "overall": "4 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/608892/local_legend?categories%5B%5D=overall"
@@ -917,8 +964,8 @@
       "polyline": "iqbuH_lhVYjFAxB@t@Dr@h@vG@^GpBSh@[Xc@Po@b@sAp@q@d@wA`B[ZYb@o@jAm@x@WL_@@k@Lu@DaCj@mAJaBn@s@RMJ[h@s@x@_@p@a@DOKc@cAg@qAK_@MiAI}CQqBKa@O_@e@w@y@yB",
       "resource_state": 3
     },
-    "effort_count": 10184,
-    "athlete_count": 4993,
+    "effort_count": 10191,
+    "athlete_count": 4994,
     "star_count": 32,
     "athlete_segment_stats": {
       "pr_elapsed_time": 225,
@@ -942,11 +989,11 @@
       "athlete_id": 9046587,
       "title": "Karen Lemeire",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9046587/2737711/10/large.jpg",
-      "effort_description": "6 efforts in the last 90 days",
-      "effort_count": "6",
+      "effort_description": "3 efforts in the last 90 days",
+      "effort_count": "3",
       "effort_counts": {
-        "overall": "6 efforts",
-        "female": "6 efforts"
+        "overall": "3 efforts",
+        "female": "3 efforts"
       },
       "destination": "strava://segments/763018/local_legend?categories%5B%5D=overall"
     },
@@ -997,8 +1044,8 @@
       "polyline": "esbuHgcjWr@fAPCpCgF^{@DQFe@?a@E]]uA[aA_@kB_@sAg@y@K]s@gAu@sB{@kAc@aAq@sBgAqC]qAQeAg@oEK_@aBmD_CyJWk@w@}@IIyAy@}AgBSY",
       "resource_state": 3
     },
-    "effort_count": 12998,
-    "athlete_count": 4624,
+    "effort_count": 13030,
+    "athlete_count": 4627,
     "star_count": 45,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -1026,7 +1073,7 @@
       "effort_count": "37",
       "effort_counts": {
         "overall": "37 efforts",
-        "female": "7 efforts"
+        "female": "9 efforts"
       },
       "destination": "strava://segments/1709212/local_legend?categories%5B%5D=overall"
     },
@@ -1077,8 +1124,8 @@
       "polyline": "cbbuHaanU?yA@OTu@`AeCH[`@iE`@}Cv@cKh@_DNm@l@}AVc@\\g@r@YF?d@Gn@]f@CLD\\^j@t@DDP@Z_@T]TYPWv@eBPSTc@b@eA@OCi@A}@Bk@He@z@}Cp@iBLk@Hy@Nq@~@eG`@{AjByDRw@@i@KIqAeCqAyBeAaC{AcF",
       "resource_state": 3
     },
-    "effort_count": 41925,
-    "athlete_count": 22169,
+    "effort_count": 41988,
+    "athlete_count": 22205,
     "star_count": 74,
     "athlete_segment_stats": {
       "pr_elapsed_time": 264,
@@ -1102,11 +1149,11 @@
       "athlete_id": 23140607,
       "title": "Gratien Cosijns",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/23140607/6728835/5/large.jpg",
-      "effort_description": "5 efforts in the last 90 days",
-      "effort_count": "5",
+      "effort_description": "4 efforts in the last 90 days",
+      "effort_count": "4",
       "effort_counts": {
-        "overall": "5 efforts",
-        "female": "2 efforts"
+        "overall": "4 efforts",
+        "female": "3 efforts"
       },
       "destination": "strava://segments/18136204/local_legend?categories%5B%5D=overall"
     },
@@ -1157,8 +1204,8 @@
       "polyline": "w}nuHwmiVPq@Fu@@o@KkA}@_Em@yA[i@y@cCEs@E]OmBq@kCSc@M_@WmAEm@CsAGi@F{BZkAjAwBTk@t@_Cd@iBPa@D]?]Gg@Mg@",
       "resource_state": 3
     },
-    "effort_count": 57192,
-    "athlete_count": 12775,
+    "effort_count": 57267,
+    "athlete_count": 12781,
     "star_count": 5,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -1226,8 +1273,8 @@
       "polyline": "ob_uHa`xTR}@Ra@|GqHVSTMtDQzIiAtBa@dBUfG[rBGfBPfBRnB`@nBp@`DdDn@PLCnKoE~AcAdZ}WbCyBfBkB`@[dCcAbAYpAEhATtA`@pEx@rDnAlAG|@i@p@kAb@aBhAaFj@uAnAcCt@_BbCcIv@uBx@cBZULRr@rChArDdAtC|G|P~@zAnAx@fBj@~@\\x@fARv@ZpBp@nDDl@@l@Cn@U|AoDfL",
       "resource_state": 3
     },
-    "effort_count": 21369,
-    "athlete_count": 8476,
+    "effort_count": 21394,
+    "athlete_count": 8493,
     "star_count": 26,
     "athlete_segment_stats": {
       "pr_elapsed_time": 480,
@@ -1248,14 +1295,14 @@
       }
     },
     "local_legend": {
-      "athlete_id": 11579852,
-      "title": "Paquita Derie",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11579852/4006416/6/large.jpg",
-      "effort_description": "8 efforts in the last 90 days",
-      "effort_count": "8",
+      "athlete_id": 15981864,
+      "title": "Didier Loof",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/15981864/19934846/1/large.jpg",
+      "effort_description": "5 efforts in the last 90 days",
+      "effort_count": "5",
       "effort_counts": {
-        "overall": "8 efforts",
-        "female": "8 efforts"
+        "overall": "5 efforts",
+        "female": "2 efforts"
       },
       "destination": "strava://segments/1515649/local_legend?categories%5B%5D=overall"
     },
@@ -1306,8 +1353,8 @@
       "polyline": "uoduHy{iUgApFe@t@sBvAg@bAu@bHs@bB{@v@aAbAa@p@{@`AoCvBc@VWX_@fA]vAYxA]dAa@VaCQa@S]C{@ToBNw@GmAWuAK{AC",
       "resource_state": 3
     },
-    "effort_count": 31179,
-    "athlete_count": 17414,
+    "effort_count": 31237,
+    "athlete_count": 17448,
     "star_count": 50,
     "athlete_segment_stats": {
       "pr_elapsed_time": 311,
@@ -1331,10 +1378,10 @@
       "athlete_id": 24718437,
       "title": "Robbe Verhaeghe",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24718437/7117182/6/large.jpg",
-      "effort_description": "22 efforts in the last 90 days",
-      "effort_count": "22",
+      "effort_description": "20 efforts in the last 90 days",
+      "effort_count": "20",
       "effort_counts": {
-        "overall": "22 efforts",
+        "overall": "20 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/2599084/local_legend?categories%5B%5D=overall"
@@ -1386,8 +1433,8 @@
       "polyline": "a~_uHuwmUp@wD^aB^eAd@mB~@}Cz@}A~CiEX[b@Yb@@HBfAl@\\Fn@Mp@SRKZSZWNSj@}Ab@sBPe@V[`A{@h@_@TKnA[l@C",
       "resource_state": 3
     },
-    "effort_count": 118946,
-    "athlete_count": 57806,
+    "effort_count": 119023,
+    "athlete_count": 57850,
     "star_count": 151,
     "athlete_segment_stats": {
       "pr_elapsed_time": 156,
@@ -1408,14 +1455,14 @@
       }
     },
     "local_legend": {
-      "athlete_id": 45845912,
-      "title": "Xander Claeys",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/45845912/14593611/12/large.jpg",
-      "effort_description": "4 efforts in the last 90 days",
-      "effort_count": "4",
+      "athlete_id": 136712240,
+      "title": "Mattis Aelvoet",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/136712240/31107832/5/large.jpg",
+      "effort_description": "5 efforts in the last 90 days",
+      "effort_count": "5",
       "effort_counts": {
-        "overall": "4 efforts",
-        "female": "3 efforts"
+        "overall": "5 efforts",
+        "female": "2 efforts"
       },
       "destination": "strava://segments/6982517/local_legend?categories%5B%5D=overall"
     },
@@ -1425,7 +1472,36 @@
       "ourKOM": true,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 22,
+              "naam_segment": "Kaperij",
+              "instagram_link": "https://www.instagram.com/p/DKHx1nCMb27/",
+              "segment_id": 6982517,
+              "poging_nr": 1,
+              "beschrijving": "The dream-team is ready to take the KOM",
+              "fail_succes": "succes",
+              "volgorde": 1,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 23,
+              "naam_segment": "Kaperij",
+              "instagram_link": "https://www.instagram.com/p/DKH8sgsMAo0/",
+              "segment_id": 6982517,
+              "poging_nr": 1,
+              "beschrijving": "KOM attempt onboard",
+              "fail_succes": "succes",
+              "volgorde": 1,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": null
+        }
+      ]
     }
   },
   {
@@ -1466,9 +1542,9 @@
       "polyline": "clkuHakeUhAeDlCkEf@i@~MyK~@u@pBuBt@c@lAeA",
       "resource_state": 3
     },
-    "effort_count": 44524,
-    "athlete_count": 18637,
-    "star_count": 428,
+    "effort_count": 44546,
+    "athlete_count": 18650,
+    "star_count": 430,
     "athlete_segment_stats": {
       "pr_elapsed_time": 96,
       "pr_date": "2023-05-28",
@@ -1495,7 +1571,7 @@
       "effort_count": "14",
       "effort_counts": {
         "overall": "14 efforts",
-        "female": "4 efforts"
+        "female": "3 efforts"
       },
       "destination": "strava://segments/1250676/local_legend?categories%5B%5D=overall"
     },
@@ -1505,167 +1581,58 @@
       "ourKOM": true,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
-    }
-  },
-  {
-    "id": 16436387,
-    "resource_state": 3,
-    "name": "Keiweg-Leberg",
-    "activity_type": "Ride",
-    "distance": 1069.7,
-    "average_grade": 4.1,
-    "maximum_grade": 19.3,
-    "elevation_high": 92.9,
-    "elevation_low": 49.0,
-    "start_latlng": [
-      50.827949,
-      3.716508
-    ],
-    "end_latlng": [
-      50.829957,
-      3.72603
-    ],
-    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WE4VABA7IIUXQZSAXS4IXP3IWOLZOGNVYO7VXM3FM2ZPNRIRCYA7QKLZJIQTPYG5BKNBQ6G5C3APHQLCCMZN4ULN",
-    "elevation_profiles": {
-      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WE4VABA7IIUXQZSAXS4IXP3IWOLZOGNVYO7VXM3FM2ZPNRIRCYA7QKLZJIQTPYG5BKNBQ6G5C3APHQLCCMZN4ULN",
-      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WFR7SFO45T67BVEGP7ZKI2GABXPZN7JOAKY56ZDFQ35SX6NSWD3FH55NBXYEAWUFMQF7G6LIVGLIA6LM5JV55ZZB"
-    },
-    "climb_category": 0,
-    "city": "Brakel",
-    "state": "Vlaanderen",
-    "country": "Belgium",
-    "private": false,
-    "hazardous": false,
-    "starred": false,
-    "created_at": "2017-11-06T10:29:22Z",
-    "updated_at": "2021-05-17T08:07:17Z",
-    "total_elevation_gain": 46.8,
-    "map": {
-      "id": "s16436387",
-      "polyline": "sifuHc{tUEeA@_@F]JWxAiBZg@v@aADKBkBE}En@wDBIRO`A[XQp@y@Xc@@O?gAMg@k@k@IGo@S_AUk@Yi@c@iAwA_DoCwAeAaAy@oBsBgAuA",
-      "resource_state": 3
-    },
-    "effort_count": 9770,
-    "athlete_count": 5756,
-    "star_count": 19,
-    "athlete_segment_stats": {
-      "pr_elapsed_time": null,
-      "pr_date": null,
-      "pr_visibility": null,
-      "pr_activity_id": null,
-      "pr_activity_visibility": null,
-      "effort_count": 0
-    },
-    "xoms": {
-      "kom": "1:44",
-      "qom": "2:21",
-      "overall": "1:44",
-      "destination": {
-        "href": "strava://segments/16436387/leaderboard",
-        "type": "overall",
-        "name": "All-Time"
-      }
-    },
-    "local_legend": {
-      "athlete_id": 42521991,
-      "title": "Jonas Parez",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/42521991/12121667/22/large.jpg",
-      "effort_description": "26 efforts in the last 90 days",
-      "effort_count": "26",
-      "effort_counts": {
-        "overall": "26 efforts",
-        "female": "2 efforts"
-      },
-      "destination": "strava://segments/16436387/local_legend?categories%5B%5D=overall"
-    },
-    "kings_data": {
-      "segment_name": "Keiweg-Leberg",
-      "segment_id": 16436387,
-      "ourKOM": false,
-      "attempted": false,
-      "ourTime": null,
-      "attempts": []
-    }
-  },
-  {
-    "id": 768022,
-    "resource_state": 3,
-    "name": "Kloosterstraat",
-    "activity_type": "Ride",
-    "distance": 633.25,
-    "average_grade": 8.7,
-    "maximum_grade": 13.4,
-    "elevation_high": 64.2,
-    "elevation_low": 9.0,
-    "start_latlng": [
-      50.77382756397128,
-      3.8828307297080755
-    ],
-    "end_latlng": [
-      50.774310026317835,
-      3.8913113716989756
-    ],
-    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2ZJYC7B625CRLW33TXEMI7QKDYCY5N6SDR7JUYPVIIX27LIAERX5AB7JUSUGOA6DD5H7TWRJKBPF6MW7LLEPEEQ=",
-    "elevation_profiles": {
-      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2ZJYC7B625CRLW33TXEMI7QKDYCY5N6SDR7JUYPVIIX27LIAERX5AB7JUSUGOA6DD5H7TWRJKBPF6MW7LLEPEEQ=",
-      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MT3I7KSTKK5ATW3HQNHC7CA7UT6BEO57HCBJP65OR2VNGYTXLU56ETSKP3Q7AEVP3YWFLSFSCZSEUNZBVN2LIFQ="
-    },
-    "climb_category": 0,
-    "city": "Geraardsbergen",
-    "state": "Vlaams Gewest",
-    "country": "Belgium",
-    "private": false,
-    "hazardous": false,
-    "starred": false,
-    "created_at": "2011-09-24T11:57:29Z",
-    "updated_at": "2021-05-20T08:02:06Z",
-    "total_elevation_gain": 55.0,
-    "map": {
-      "id": "s768022",
-      "polyline": "kw{tHujuVOg@KgAKi@I}@I]Go@KuB?_@NuBEoELqFEm@W{Aw@sCUgACu@N_ARs@TiAJqA",
-      "resource_state": 3
-    },
-    "effort_count": 21922,
-    "athlete_count": 9130,
-    "star_count": 83,
-    "athlete_segment_stats": {
-      "pr_elapsed_time": null,
-      "pr_date": null,
-      "pr_visibility": null,
-      "pr_activity_id": null,
-      "pr_activity_visibility": null,
-      "effort_count": 0
-    },
-    "xoms": {
-      "kom": "1:22",
-      "qom": "1:43",
-      "overall": "1:22",
-      "destination": {
-        "href": "strava://segments/768022/leaderboard",
-        "type": "overall",
-        "name": "All-Time"
-      }
-    },
-    "local_legend": {
-      "athlete_id": 27944239,
-      "title": "Milan Stiens",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/27944239/33084420/1/large.jpg",
-      "effort_description": "18 efforts in the last 90 days",
-      "effort_count": "18",
-      "effort_counts": {
-        "overall": "18 efforts",
-        "female": "2 efforts"
-      },
-      "destination": "strava://segments/768022/local_legend?categories%5B%5D=overall"
-    },
-    "kings_data": {
-      "segment_name": "Kloosterstraat",
-      "segment_id": 768022,
-      "ourKOM": false,
-      "attempted": true,
-      "ourTime": "1:27",
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 18,
+              "naam_segment": "Kattenberg",
+              "instagram_link": "https://www.instagram.com/p/DKCRvG-sOPV/",
+              "segment_id": 1250676,
+              "poging_nr": 1,
+              "beschrijving": "Who will go for the KOM?",
+              "fail_succes": "succes",
+              "volgorde": 1,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 19,
+              "naam_segment": "Kattenberg",
+              "instagram_link": "https://www.instagram.com/p/DKERjMbMqOi/",
+              "segment_id": 1250676,
+              "poging_nr": 1,
+              "beschrijving": "On board the KOM attempt",
+              "fail_succes": "succes",
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 20,
+              "naam_segment": "Kattenberg",
+              "instagram_link": "https://www.instagram.com/p/DKCsYwVM6qu/",
+              "segment_id": 1250676,
+              "poging_nr": 1,
+              "beschrijving": "The KOM-man flying past",
+              "fail_succes": "succes",
+              "volgorde": 3,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 21,
+              "naam_segment": "Kattenberg",
+              "instagram_link": "https://www.instagram.com/p/DKFRXhTsuBo/",
+              "segment_id": 1250676,
+              "poging_nr": 1,
+              "beschrijving": "Checking the results",
+              "fail_succes": "succes",
+              "volgorde": 4,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": null
+        }
+      ]
     }
   },
   {
@@ -1706,8 +1673,8 @@
       "polyline": "}eztH}tgTfA{@p@YXIVCfA@VETI|@e@HAJBPPVb@jBhEVZZNZ@n@AjBMhFu@p@D`@NjAz@`Af@`AX`AVLFDPCbBBLJXFJx@r@pBnB",
       "resource_state": 3
     },
-    "effort_count": 92888,
-    "athlete_count": 33479,
+    "effort_count": 92968,
+    "athlete_count": 33872,
     "star_count": 431,
     "athlete_segment_stats": {
       "pr_elapsed_time": 176,
@@ -1786,9 +1753,9 @@
       "polyline": "opwtH}hpTeB`@wBCiABs@Xw@^w@XY@K?YE[_@k@]}C{@{CZgFDkDT_BG[DqEz@a@Pe@`@KFWDg@?_BTqBd@uA`@[?UK}AoAe@Ua@AeAZ",
       "resource_state": 3
     },
-    "effort_count": 215400,
-    "athlete_count": 51913,
-    "star_count": 1778,
+    "effort_count": 215579,
+    "athlete_count": 51962,
+    "star_count": 1781,
     "athlete_segment_stats": {
       "pr_elapsed_time": 201,
       "pr_date": "2021-09-19",
@@ -1811,11 +1778,11 @@
       "athlete_id": 52090023,
       "title": "Yori Jonckheere",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/52090023/35042676/1/large.jpg",
-      "effort_description": "22 efforts in the last 90 days",
-      "effort_count": "22",
+      "effort_description": "21 efforts in the last 90 days",
+      "effort_count": "21",
       "effort_counts": {
-        "overall": "22 efforts",
-        "female": "6 efforts"
+        "overall": "21 efforts",
+        "female": "7 efforts"
       },
       "destination": "strava://segments/608878/local_legend?categories%5B%5D=overall"
     },
@@ -1866,9 +1833,9 @@
       "polyline": "{jcuHeuxTnHi`@VsCz@sF",
       "resource_state": 3
     },
-    "effort_count": 265202,
-    "athlete_count": 114885,
-    "star_count": 5727,
+    "effort_count": 265494,
+    "athlete_count": 115043,
+    "star_count": 5736,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
       "pr_date": null,
@@ -1895,7 +1862,7 @@
       "effort_count": "15",
       "effort_counts": {
         "overall": "15 efforts",
-        "female": "3 efforts"
+        "female": "2 efforts"
       },
       "destination": "strava://segments/19452499/local_legend?categories%5B%5D=overall"
     },
@@ -1905,7 +1872,36 @@
       "ourKOM": false,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 44,
+              "naam_segment": "Koppenberg",
+              "instagram_link": "https://www.instagram.com/p/DN3N1ow2P6A/",
+              "segment_id": 19452499,
+              "poging_nr": 1,
+              "beschrijving": "Witness crazy speeds",
+              "fail_succes": null,
+              "volgorde": 1,
+              "alternative_attempt_title": "Flying down the Koppenberg in his underwear?"
+            },
+            {
+              "post_id": 45,
+              "naam_segment": "Koppenberg",
+              "instagram_link": "https://www.instagram.com/p/DN7YbEKjDfb/",
+              "segment_id": 19452499,
+              "poging_nr": 1,
+              "beschrijving": "We made the news",
+              "fail_succes": null,
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": "Flying down the Koppenberg in his underwear?"
+        }
+      ]
     }
   },
   {
@@ -1946,8 +1942,8 @@
       "polyline": "{`auHcsyTGq@Kq@Mk@]iAA_@JY`EsHhAgB|@}BnAkEhAyCVe@hAgBdA_Cx@eAFQH]Ba@MgA?_@EWBKRSBIJKv@w@p@i@V]J]DaAFg@Le@lBaCz@_A",
       "resource_state": 3
     },
-    "effort_count": 117037,
-    "athlete_count": 37673,
+    "effort_count": 117154,
+    "athlete_count": 37722,
     "star_count": 51,
     "athlete_segment_stats": {
       "pr_elapsed_time": 171,
@@ -1971,11 +1967,11 @@
       "athlete_id": 2433552,
       "title": "Bjorn De Decker",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2433552/765011/13/large.jpg",
-      "effort_description": "16 efforts in the last 90 days",
-      "effort_count": "16",
+      "effort_description": "14 efforts in the last 90 days",
+      "effort_count": "14",
       "effort_counts": {
-        "overall": "16 efforts",
-        "female": "5 efforts"
+        "overall": "14 efforts",
+        "female": "4 efforts"
       },
       "destination": "strava://segments/17389313/local_legend?categories%5B%5D=overall"
     },
@@ -2026,9 +2022,9 @@
       "polyline": "kzluHmm_VPcAEkAS{Bo@oEI{@RY^Yz@k@hC{AxBkBpCqB|CuBjAiAzBiB`AkAx@uA|@gANFLRFr@ErAb@xE`@lF^|@f@x@XhAZfBt@nCzAi@xAq@hBcBzA}A|AuAtAeANALHrAjDXG^_@l@{@ZsC\\uEFkCYkCPsAd@k@vDiBTEF?HJb@bANPP@NALI^c@RMd@IbC?n@IlAYv@Y",
       "resource_state": 3
     },
-    "effort_count": 20819,
-    "athlete_count": 9903,
-    "star_count": 1716,
+    "effort_count": 20880,
+    "athlete_count": 9940,
+    "star_count": 1722,
     "athlete_segment_stats": {
       "pr_elapsed_time": 480,
       "pr_date": "2024-12-10",
@@ -2051,10 +2047,10 @@
       "athlete_id": 17085260,
       "title": "Frederic Gerniers",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/17085260/4801240/4/large.jpg",
-      "effort_description": "11 efforts in the last 90 days",
-      "effort_count": "11",
+      "effort_description": "12 efforts in the last 90 days",
+      "effort_count": "12",
       "effort_counts": {
-        "overall": "11 efforts",
+        "overall": "12 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/19651389/local_legend?categories%5B%5D=overall"
@@ -2070,46 +2066,90 @@
           "poging_nr": 1,
           "posts": [
             {
-              "post_id": 3,
-              "naam_segment": "kortendries",
-              "instagram_link": "https://www.instagram.com/p/DJPFXmFsf6B/",
+              "post_id": 41,
+              "naam_segment": "Kortendries",
+              "instagram_link": "https://www.instagram.com/p/DNnWxfRM2uk/",
               "segment_id": 19651389,
               "poging_nr": 1,
-              "beschrijving": "intro before attempt",
+              "beschrijving": "Will she be our Queen?",
               "fail_succes": "succes",
-              "volgorde": 1
+              "volgorde": 1,
+              "alternative_attempt_title": "Taking the QOM"
+            },
+            {
+              "post_id": 42,
+              "naam_segment": "Kortendries",
+              "instagram_link": "https://www.instagram.com/p/DNnXzKvoUP6/",
+              "segment_id": 19651389,
+              "poging_nr": 1,
+              "beschrijving": "Our queen of the day is ready",
+              "fail_succes": "succes",
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 43,
+              "naam_segment": "Kortendries",
+              "instagram_link": "https://www.instagram.com/p/DNsA-KP2A8h/",
+              "segment_id": 19651389,
+              "poging_nr": 1,
+              "beschrijving": "QOM attempt onboard",
+              "fail_succes": "succes",
+              "volgorde": 3,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": "Taking the QOM"
+        },
+        {
+          "poging_nr": 2,
+          "posts": [
+            {
+              "post_id": 3,
+              "naam_segment": "Kortendries",
+              "instagram_link": "https://www.instagram.com/p/DJPFXmFsf6B/",
+              "segment_id": 19651389,
+              "poging_nr": 2,
+              "beschrijving": "Intro before the attempt",
+              "fail_succes": "succes",
+              "volgorde": 1,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 4,
-              "naam_segment": "kortendries",
+              "naam_segment": "Kortendries",
               "instagram_link": "https://www.instagram.com/p/DJPF0I_MNSx/",
               "segment_id": 19651389,
-              "poging_nr": 1,
-              "beschrijving": "checking the wind before attempt",
+              "poging_nr": 2,
+              "beschrijving": "Analyzing the wind-direction.",
               "fail_succes": "succes",
-              "volgorde": 2
+              "volgorde": 2,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 5,
-              "naam_segment": "kortendries",
+              "naam_segment": "Kortendries",
               "instagram_link": "https://www.instagram.com/p/DJPKRYqNGht/",
               "segment_id": 19651389,
-              "poging_nr": 1,
-              "beschrijving": "second intro before attempt",
+              "poging_nr": 2,
+              "beschrijving": "The plan",
               "fail_succes": "succes",
-              "volgorde": 3
+              "volgorde": 3,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 6,
-              "naam_segment": "kortendries",
+              "naam_segment": "Kortendries",
               "instagram_link": "https://www.instagram.com/p/DJPY1YhNacM/",
               "segment_id": 19651389,
-              "poging_nr": 1,
-              "beschrijving": "checking the results",
+              "poging_nr": 2,
+              "beschrijving": "Checking the results",
               "fail_succes": "succes",
-              "volgorde": 4
+              "volgorde": 4,
+              "alternative_attempt_title": null
             }
-          ]
+          ],
+          "attempt_title": "Taking the KOM"
         }
       ]
     }
@@ -2152,9 +2192,9 @@
       "polyline": "srduH}~bUoBuBm@e@mEuAwA}@uCuB{Aa@qBIq@_A{AaBeMmG{@M}@E_AFqC\\",
       "resource_state": 3
     },
-    "effort_count": 102853,
-    "athlete_count": 35484,
-    "star_count": 2301,
+    "effort_count": 102961,
+    "athlete_count": 35533,
+    "star_count": 2304,
     "athlete_segment_stats": {
       "pr_elapsed_time": 249,
       "pr_date": "2025-07-10",
@@ -2177,11 +2217,11 @@
       "athlete_id": 3991196,
       "title": "Alex Howarth",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3991196/12565370/5/large.jpg",
-      "effort_description": "10 efforts in the last 90 days",
-      "effort_count": "10",
+      "effort_description": "8 efforts in the last 90 days",
+      "effort_count": "8",
       "effort_counts": {
-        "overall": "10 efforts",
-        "female": "8 efforts"
+        "overall": "8 efforts",
+        "female": "6 efforts"
       },
       "destination": "strava://segments/19976280/local_legend?categories%5B%5D=overall"
     },
@@ -2232,9 +2272,9 @@
       "polyline": "aneuHspuUaC_Eg@_@q@UeAiAWI_ACQKIMq@gBMSg@][QuAa@k@_@mB_C_CaCeFoEeDwD",
       "resource_state": 3
     },
-    "effort_count": 241038,
-    "athlete_count": 84149,
-    "star_count": 1891,
+    "effort_count": 241190,
+    "athlete_count": 84199,
+    "star_count": 1895,
     "athlete_segment_stats": {
       "pr_elapsed_time": 84,
       "pr_date": "2025-09-14",
@@ -2271,7 +2311,25 @@
       "ourKOM": false,
       "attempted": true,
       "ourTime": "1:10",
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 46,
+              "naam_segment": "Leberg",
+              "instagram_link": "https://www.instagram.com/p/DOob0_xDK75/",
+              "segment_id": 19651427,
+              "poging_nr": 1,
+              "beschrijving": "We enjoyed a wonderful atmosphere at our second event!",
+              "fail_succes": null,
+              "volgorde": 1,
+              "alternative_attempt_title": "The leberg challenge"
+            }
+          ],
+          "attempt_title": "The leberg challenge"
+        }
+      ]
     }
   },
   {
@@ -2312,8 +2370,8 @@
       "polyline": "gzjuH_puUlA_AhB}An@_@p@Qp@EtB@rBEbABf@FpF~AtA^v@Dv@K^MjAs@dC_CtBkBPMRK~@Yv@IdCe@x@_@d@]pCwCfB_B`Aw@x@e@rDg@ZKXQXWV[b@q@~AyD|@kBj@_AtAeBrFoG~IsK`@s@DQ^kB",
       "resource_state": 3
     },
-    "effort_count": 86789,
-    "athlete_count": 20939,
+    "effort_count": 86976,
+    "athlete_count": 20983,
     "star_count": 182,
     "athlete_segment_stats": {
       "pr_elapsed_time": 290,
@@ -2337,10 +2395,10 @@
       "athlete_id": 1641438,
       "title": "Nicky Van Der Schueren",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1641438/3704599/3/large.jpg",
-      "effort_description": "51 efforts in the last 90 days",
-      "effort_count": "51",
+      "effort_description": "52 efforts in the last 90 days",
+      "effort_count": "52",
       "effort_counts": {
-        "overall": "51 efforts",
+        "overall": "52 efforts",
         "female": "7 efforts"
       },
       "destination": "strava://segments/734831/local_legend?categories%5B%5D=overall"
@@ -2392,9 +2450,9 @@
       "polyline": "agluHauqUi@Oc@AOIKe@UqBe@aC_BaE_@c@OKq@QGI_@gAsAaD",
       "resource_state": 3
     },
-    "effort_count": 207455,
-    "athlete_count": 79662,
-    "star_count": 2002,
+    "effort_count": 207667,
+    "athlete_count": 79767,
+    "star_count": 2006,
     "athlete_segment_stats": {
       "pr_elapsed_time": 70,
       "pr_date": "2021-03-20",
@@ -2417,10 +2475,10 @@
       "athlete_id": 59915284,
       "title": "Martijn Messiaen",
       "profile": "https://graph.facebook.com/1491208517725443/picture?height=256&width=256",
-      "effort_description": "12 efforts in the last 90 days",
-      "effort_count": "12",
+      "effort_description": "10 efforts in the last 90 days",
+      "effort_count": "10",
       "effort_counts": {
-        "overall": "12 efforts",
+        "overall": "10 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/19610435/local_legend?categories%5B%5D=overall"
@@ -2430,32 +2488,61 @@
       "segment_id": 19610435,
       "ourKOM": false,
       "attempted": true,
-      "ourTime": "0:48",
-      "attempts": []
+      "ourTime": "48s",
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 25,
+              "naam_segment": "Molenberg",
+              "instagram_link": "https://www.instagram.com/p/DKWcHlgM4ys/",
+              "segment_id": 19610435,
+              "poging_nr": 1,
+              "beschrijving": "Cornering like a madman",
+              "fail_succes": "fail",
+              "volgorde": 1,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 26,
+              "naam_segment": "Molenberg",
+              "instagram_link": "https://www.instagram.com/p/DKcpExesVNR/",
+              "segment_id": 19610435,
+              "poging_nr": 1,
+              "beschrijving": "Is it \"Zotte Werk\"?",
+              "fail_succes": "fail",
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": null
+        }
+      ]
     }
   },
   {
-    "id": 608907,
+    "id": 1058183,
     "resource_state": 3,
-    "name": "Muur - Kapelmuur (zonder Vesten)",
+    "name": "Muur van Geraardsbergen",
     "activity_type": "Ride",
-    "distance": 816.24,
-    "average_grade": 10.0,
-    "maximum_grade": 30.4,
-    "elevation_high": 110.2,
-    "elevation_low": 28.8,
+    "distance": 1101.13,
+    "average_grade": 8.7,
+    "maximum_grade": 18.9,
+    "elevation_high": 107.4,
+    "elevation_low": 18.3,
     "start_latlng": [
-      50.7735886797309,
-      3.88274288736284
+      50.77150946483016,
+      3.88086617924273
     ],
     "end_latlng": [
-      50.7723207492381,
-      3.89042850583792
+      50.77222226187587,
+      3.8901910465210676
     ],
-    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YYDSD3B4GBF7TKTNHUVYRQERAVIX25LOR6P6XMB7DQJ4W6ZTMXYE62BBAS5JRWEXGEZW7X3HRUTG37ACBVHSF3BT",
+    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YP5WGKSNII4PAQYHHR2BFMTXE56FAN7SE2RDHBFFHER3CBQDQBIQPNLVH6NZSURYT24F2ZFDXNGLGX3P5SFRTKDG",
     "elevation_profiles": {
-      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YYDSD3B4GBF7TKTNHUVYRQERAVIX25LOR6P6XMB7DQJ4W6ZTMXYE62BBAS5JRWEXGEZW7X3HRUTG37ACBVHSF3BT",
-      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/Y4PS7AUQTIBV3VDLDPA4B3DICPB5CHC25HQYFMUDYF3BB33FB2MGBFQWLAUAHMLDIVNI24KB2QY5MQ4WGCRKQC2S"
+      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YP5WGKSNII4PAQYHHR2BFMTXE56FAN7SE2RDHBFFHER3CBQDQBIQPNLVH6NZSURYT24F2ZFDXNGLGX3P5SFRTKDG",
+      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MZKQUJGYCDP33HMQGZYCG34IHVZUEDGTNGGGZ532E4V3U2EOPOXK6VCUBAHNSGTPRRFHR64TJXIXGMV6GGFEAYKG"
     },
     "climb_category": 1,
     "city": "Geraardsbergen",
@@ -2464,51 +2551,131 @@
     "private": false,
     "hazardous": false,
     "starred": false,
-    "created_at": "2010-04-04T02:40:48Z",
-    "updated_at": "2021-05-20T08:02:03Z",
-    "total_elevation_gain": 79.4,
+    "created_at": "2012-03-06T22:51:11Z",
+    "updated_at": "2024-09-19T20:40:50Z",
+    "total_elevation_gain": 89.1,
     "map": {
-      "id": "s608907",
-      "polyline": "{u{tHcjuVO{@?e@GSMUEOOWK_@YiDIiC@mACK@[Ei@F_BLU^M^]`@u@RUPe@LQRMNORK^Cj@BJGLYNo@LSPCFDBFPAl@L^AVWJOA_@DEDO@KAIEIm@g@a@_A]UESBaAEM[e@Mo@",
+      "id": "s1058183",
+      "polyline": "ai{tHm~tVAmEBy@D[f@yBeAu@EM@iBDoCAMk@S{B}@GKKo@QU{C_EUIGIs@_A?Kd@c@b@{@Jm@FIx@o@FCHA`ABPEf@wAJO~@d@l@RPBHCFG`@eCCK}@{@QYm@_@GMJg@?YGUSOGS",
       "resource_state": 3
     },
-    "effort_count": 63140,
-    "athlete_count": 32913,
-    "star_count": 127,
+    "effort_count": 242587,
+    "athlete_count": 90541,
+    "star_count": 4475,
     "athlete_segment_stats": {
-      "pr_elapsed_time": 168,
-      "pr_date": "2023-05-28",
-      "pr_visibility": "everyone",
-      "pr_activity_id": 9157869347,
-      "pr_activity_visibility": "everyone",
-      "effort_count": 2
+      "pr_elapsed_time": 255,
+      "pr_date": "2018-05-23",
+      "pr_visibility": "only_me",
+      "pr_activity_id": 1598757160,
+      "pr_activity_visibility": "only_me",
+      "effort_count": 1
     },
     "xoms": {
-      "kom": "2:19",
-      "qom": "2:46",
-      "overall": "2:19",
+      "kom": "2:34",
+      "qom": "3:09",
+      "overall": "2:34",
       "destination": {
-        "href": "strava://segments/608907/leaderboard",
+        "href": "strava://segments/1058183/leaderboard",
         "type": "overall",
         "name": "All-Time"
       }
     },
     "local_legend": {
-      "athlete_id": 11394538,
-      "title": "Johan Deschepper",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11394538/9353271/5/large.jpg",
-      "effort_description": "15 efforts in the last 90 days",
-      "effort_count": "15",
+      "athlete_id": 91813724,
+      "title": "Luc Vanden Elschen",
+      "profile": "https://lh3.googleusercontent.com/a/ACg8ocLCX_PvNGQIjHwFZoQD_ymKeu7PdsgrrNpiMIfQyVEOjbquaYyL=s96-c",
+      "effort_description": "37 efforts in the last 90 days",
+      "effort_count": "37",
       "effort_counts": {
-        "overall": "15 efforts",
-        "female": "2 efforts"
+        "overall": "37 efforts",
+        "female": "4 efforts"
       },
-      "destination": "strava://segments/608907/local_legend?categories%5B%5D=overall"
+      "destination": "strava://segments/1058183/local_legend?categories%5B%5D=overall"
     },
     "kings_data": {
       "segment_name": "Muur-Kapelmuur",
-      "segment_id": 608907,
+      "segment_id": 1058183,
       "ourKOM": false,
+      "attempted": false,
+      "ourTime": null,
+      "attempts": []
+    }
+  },
+  {
+    "id": 809688,
+    "resource_state": 3,
+    "name": "Muziekbos",
+    "activity_type": "Ride",
+    "distance": 910.04,
+    "average_grade": 5.9,
+    "maximum_grade": 14.2,
+    "elevation_high": 38.8,
+    "elevation_low": -20.8,
+    "start_latlng": [
+      50.75908253900707,
+      3.626985875889659
+    ],
+    "end_latlng": [
+      50.7608179282397,
+      3.6374407913535833
+    ],
+    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IV5HG3CBZXEGJ2EUXLJNSHPHKAPJM2FUUZKN67TJLY3OYQK4AORZWSZ7ME2ULIRI4NZVWXFDJRKC3ZFE46QBW7Q=",
+    "elevation_profiles": {
+      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IV5HG3CBZXEGJ2EUXLJNSHPHKAPJM2FUUZKN67TJLY3OYQK4AORZWSZ7ME2ULIRI4NZVWXFDJRKC3ZFE46QBW7Q=",
+      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/G5ZT6IHEKQKNKY4D5YJFVREJYI7QXVZSIWWDFTUZRIBV6M2HKQJSZTPOADB7Q4CJBMJKNNYXD4RZKQBU52RHBMI="
+    },
+    "climb_category": 0,
+    "city": "Renaix",
+    "state": "Flemish Region",
+    "country": "Belgium",
+    "private": false,
+    "hazardous": false,
+    "starred": false,
+    "created_at": "2011-10-30T11:25:30Z",
+    "updated_at": "2021-05-20T08:02:06Z",
+    "total_elevation_gain": 59.6,
+    "map": {
+      "id": "s809688",
+      "polyline": "g{xtHskcUOc@Mg@[_Cc@kBs@sBOOg@WMSEWEgBEUSc@Oo@]s@IGm@@KGEGMoACyAUyB_@oA]iBGUGq@Sa@Q_AASFe@HqDJy@r@qCN]d@m@Ti@DSHm@JW",
+      "resource_state": 3
+    },
+    "effort_count": 14481,
+    "athlete_count": 5660,
+    "star_count": 39,
+    "athlete_segment_stats": {
+      "pr_elapsed_time": null,
+      "pr_date": null,
+      "pr_visibility": null,
+      "pr_activity_id": null,
+      "pr_activity_visibility": null,
+      "effort_count": 0
+    },
+    "xoms": {
+      "kom": "1:43",
+      "qom": "2:45",
+      "overall": "1:43",
+      "destination": {
+        "href": "strava://segments/809688/leaderboard",
+        "type": "overall",
+        "name": "All-Time"
+      }
+    },
+    "local_legend": {
+      "athlete_id": 5415800,
+      "title": "Larwing 🚵",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5415800/2389872/9/large.jpg",
+      "effort_description": "9 efforts in the last 90 days",
+      "effort_count": "9",
+      "effort_counts": {
+        "overall": "9 efforts",
+        "female": "4 efforts"
+      },
+      "destination": "strava://segments/809688/local_legend?categories%5B%5D=overall"
+    },
+    "kings_data": {
+      "segment_name": "Muziekbos",
+      "segment_id": 809688,
+      "ourKOM": true,
       "attempted": false,
       "ourTime": null,
       "attempts": []
@@ -2552,8 +2719,8 @@
       "polyline": "{|duH}qyWZUlBeAx@_@`Bm@j@QvAg@PMb@Kb@S^IJDVSF@F?HGLADEZc@J?NEHIt@c@\\Od@_@\\QZ_@L]NiAf@}AL{@FORYJILG\\GLGLOFUDYFu@BsA^cE?iBIgC@cCVsDBcB?{DDq@\\aC",
       "resource_state": 3
     },
-    "effort_count": 38961,
-    "athlete_count": 11512,
+    "effort_count": 39006,
+    "athlete_count": 11522,
     "star_count": 148,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -2581,7 +2748,7 @@
       "effort_count": "9",
       "effort_counts": {
         "overall": "9 efforts",
-        "female": "4 efforts"
+        "female": "5 efforts"
       },
       "destination": "strava://segments/662298/local_legend?categories%5B%5D=overall"
     },
@@ -2632,8 +2799,8 @@
       "polyline": "}l}tHm}mThBqBj@_@JMZIf@]|@a@n@a@b@Q`DgB|DsBxCcB`@OTOPOnDoB`@YHMPOl@[~BwBxAaBFKrAsA~DyEVSr@y@j@u@v@y@p@}@JG|@oAt@o@@IhAwAdDuDR]\\]p@w@JIn@y@r@u@j@w@vA}AXWVCZOZSdCeAdC{@bBg@dC_ALI\\e@h@sAp@kBRcAVq@Ps@PmAJmANyDPqBHyCFcEAsCD}AQ{EWaCw@{Fg@aEc@wCQwAy@oEKYn@wDVgB`AkIfIao@l@mFx@kEg@gBEa@Fy@HmCXiGh@_ORoDJaDDg@TeA\\}@hAaB|@iAr@iAH[TgBPkHR{ARa@Rw@^m@@IJSTm@NSXu@`@mAz@sCDSHS",
       "resource_state": 3
     },
-    "effort_count": 9256,
-    "athlete_count": 3572,
+    "effort_count": 9271,
+    "athlete_count": 3576,
     "star_count": 21,
     "athlete_segment_stats": {
       "pr_elapsed_time": 614,
@@ -2712,9 +2879,9 @@
       "polyline": "qgquH{xlTi@l@iAx@i@ViATyEhJ",
       "resource_state": 3
     },
-    "effort_count": 189634,
-    "athlete_count": 45974,
-    "star_count": 2672,
+    "effort_count": 189845,
+    "athlete_count": 46059,
+    "star_count": 2675,
     "athlete_segment_stats": {
       "pr_elapsed_time": 46,
       "pr_date": "2021-03-20",
@@ -2736,11 +2903,11 @@
     "local_legend": {
       "athlete_id": 65309355,
       "title": "Sonny Callens",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/65309355/33341936/2/large.jpg",
-      "effort_description": "24 efforts in the last 90 days",
-      "effort_count": "24",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/65309355/33341936/3/large.jpg",
+      "effort_description": "26 efforts in the last 90 days",
+      "effort_count": "26",
       "effort_counts": {
-        "overall": "24 efforts",
+        "overall": "26 efforts",
         "female": "5 efforts"
       },
       "destination": "strava://segments/21693457/local_legend?categories%5B%5D=overall"
@@ -2748,166 +2915,6 @@
     "kings_data": {
       "segment_name": "Nokereberg",
       "segment_id": 21693457,
-      "ourKOM": false,
-      "attempted": false,
-      "ourTime": null,
-      "attempts": []
-    }
-  },
-  {
-    "id": 2580334,
-    "resource_state": 3,
-    "name": "Onderbossenaarstraat",
-    "activity_type": "Ride",
-    "distance": 827.537,
-    "average_grade": 4.9,
-    "maximum_grade": 9.4,
-    "elevation_high": 95.7,
-    "elevation_low": 46.4,
-    "start_latlng": [
-      50.80949,
-      3.624031
-    ],
-    "end_latlng": [
-      50.805834,
-      3.632986
-    ],
-    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4NLE33VYSADIHKI2X5NHVLYXSFUIT77YS2KWUDO7NW67JBBOMIJNSLDVLWOJWNAGKVYT26RA2HQC6T7JQ3T2TSDR",
-    "elevation_profiles": {
-      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4NLE33VYSADIHKI2X5NHVLYXSFUIT77YS2KWUDO7NW67JBBOMIJNSLDVLWOJWNAGKVYT26RA2HQC6T7JQ3T2TSDR",
-      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BOFQOJQQ4LW5FTOW7VQBPAQ4554Z3EX6RUPSWYOTN4XQBQFZZSD5XG7UT5FVPK6K3UOVCALCMJLDONUBBMCGT5T4"
-    },
-    "climb_category": 0,
-    "city": "Maarkedal",
-    "state": "Vlaams Gewest",
-    "country": "Belgium",
-    "private": false,
-    "hazardous": false,
-    "starred": false,
-    "created_at": "2012-10-15T16:02:47Z",
-    "updated_at": "2021-05-20T08:02:20Z",
-    "total_elevation_gain": 49.286,
-    "map": {
-      "id": "s2580334",
-      "polyline": "ivbuHeybU`@U?_AOwFDsCf@kDlAiGx@oBf@cAtCmCrFsFVe@rAkEAu@GG",
-      "resource_state": 3
-    },
-    "effort_count": 62986,
-    "athlete_count": 29158,
-    "star_count": 43,
-    "athlete_segment_stats": {
-      "pr_elapsed_time": 138,
-      "pr_date": "2020-01-25",
-      "pr_visibility": "everyone",
-      "pr_activity_id": 3042360786,
-      "pr_activity_visibility": "everyone",
-      "effort_count": 1
-    },
-    "xoms": {
-      "kom": "1:19",
-      "qom": "1:38",
-      "overall": "1:19",
-      "destination": {
-        "href": "strava://segments/2580334/leaderboard",
-        "type": "overall",
-        "name": "All-Time"
-      }
-    },
-    "local_legend": {
-      "athlete_id": 37131802,
-      "title": "Hasan Thooft",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37131802/11047290/3/large.jpg",
-      "effort_description": "42 efforts in the last 90 days",
-      "effort_count": "42",
-      "effort_counts": {
-        "overall": "42 efforts",
-        "female": "10 efforts"
-      },
-      "destination": "strava://segments/2580334/local_legend?categories%5B%5D=overall"
-    },
-    "kings_data": {
-      "segment_name": "Onderbossenaarstraat",
-      "segment_id": 2580334,
-      "ourKOM": false,
-      "attempted": true,
-      "ourTime": "1:26",
-      "attempts": []
-    }
-  },
-  {
-    "id": 1174241,
-    "resource_state": 3,
-    "name": "Oude Kruiskens (kasseien)",
-    "activity_type": "Ride",
-    "distance": 453.2,
-    "average_grade": 8.2,
-    "maximum_grade": 26.5,
-    "elevation_high": 91.8,
-    "elevation_low": 54.8,
-    "start_latlng": [
-      50.756905088201165,
-      3.5913963988423347
-    ],
-    "end_latlng": [
-      50.7599185500294,
-      3.587375935167074
-    ],
-    "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BJNVQU7N3H54XJLKFBU3A5LZF6W647KAH3HLXVDCRDTFNFNKQB2IKGIVBWVBHPDJ6SWAHICSR6ZK7CTV2RKONMI=",
-    "elevation_profiles": {
-      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BJNVQU7N3H54XJLKFBU3A5LZF6W647KAH3HLXVDCRDTFNFNKQB2IKGIVBWVBHPDJ6SWAHICSR6ZK7CTV2RKONMI=",
-      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IYZ33XHKRV4GTBDBPSPRYU2PDFQMEBMPRXH6R6F2XNBFHPSYGWWKRRJXAYCDQC4IXI6XJYGEMP4K2SEMPZ5G7QA="
-    },
-    "climb_category": 0,
-    "city": "Ronse",
-    "state": "Vlaams Gewest",
-    "country": "Belgium",
-    "private": false,
-    "hazardous": false,
-    "starred": false,
-    "created_at": "2012-04-03T11:52:10Z",
-    "updated_at": "2021-05-20T08:02:09Z",
-    "total_elevation_gain": 37.0,
-    "map": {
-      "id": "s1174241",
-      "polyline": "smxtHem|Tq@p@}AvBGPMLGXWh@UVELQRu@~Ai@h@Yb@aAf@a@Ns@l@U^GDa@dAQx@A`@",
-      "resource_state": 3
-    },
-    "effort_count": 189937,
-    "athlete_count": 87877,
-    "star_count": 218,
-    "athlete_segment_stats": {
-      "pr_elapsed_time": 78,
-      "pr_date": "2021-03-20",
-      "pr_visibility": "everyone",
-      "pr_activity_id": 4978152569,
-      "pr_activity_visibility": "everyone",
-      "effort_count": 2
-    },
-    "xoms": {
-      "kom": "56s",
-      "qom": "1:13",
-      "overall": "56s",
-      "destination": {
-        "href": "strava://segments/1174241/leaderboard",
-        "type": "overall",
-        "name": "All-Time"
-      }
-    },
-    "local_legend": {
-      "athlete_id": 46112870,
-      "title": "Jelle R",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46112870/12780894/8/large.jpg",
-      "effort_description": "7 efforts in the last 90 days",
-      "effort_count": "7",
-      "effort_counts": {
-        "overall": "7 efforts",
-        "female": "2 efforts"
-      },
-      "destination": "strava://segments/1174241/local_legend?categories%5B%5D=overall"
-    },
-    "kings_data": {
-      "segment_name": "Oude Kruiskens",
-      "segment_id": 1174241,
       "ourKOM": false,
       "attempted": false,
       "ourTime": null,
@@ -2952,8 +2959,8 @@
       "polyline": "iy~tHeioTrABrAKpA[pA]tBy@`@Nv@~AHL~@A`AgA~@y@TMh@URG|AIhBUP@r@Nb@?LC~@m@rAqA`AoAXON?`@FdA^h@b@TJVDzBTbBCf@Od@CrAXdAHr@Xz@h@LDf@BZAXLf@Db@CZATET?jAMLEb@_@v@a@t@UxBi@z@]TCtAcAtCwCjA{@jA[lAMbAg@bBcA~Aw@hAoA~@_Ab@]\\a@LI`@QLM~BmCbA{@fCz@",
       "resource_state": 3
     },
-    "effort_count": 105230,
-    "athlete_count": 48762,
+    "effort_count": 105370,
+    "athlete_count": 48842,
     "star_count": 529,
     "athlete_segment_stats": {
       "pr_elapsed_time": 453,
@@ -3032,8 +3039,8 @@
       "polyline": "uh}tH}meV`@[ZO`@_@j@_@\\EXM^GVM\\GFMLMdCs@b@GJG`@g@FQH{@@mATs@Vi@JQTYnAs@l@ULOXq@Ho@Ae@i@cE",
       "resource_state": 3
     },
-    "effort_count": 100355,
-    "athlete_count": 47138,
+    "effort_count": 100585,
+    "athlete_count": 47184,
     "star_count": 207,
     "athlete_segment_stats": {
       "pr_elapsed_time": 85,
@@ -3057,10 +3064,10 @@
       "athlete_id": 7933974,
       "title": "Jordi Baert",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/7933974/34986469/3/large.jpg",
-      "effort_description": "27 efforts in the last 90 days",
-      "effort_count": "27",
+      "effort_description": "23 efforts in the last 90 days",
+      "effort_count": "23",
       "effort_counts": {
-        "overall": "27 efforts",
+        "overall": "23 efforts",
         "female": "8 efforts"
       },
       "destination": "strava://segments/608906/local_legend?categories%5B%5D=overall"
@@ -3112,9 +3119,9 @@
       "polyline": "sn}tHkesTIeB?o@dAsJXmBVuCBc@@eBDk@",
       "resource_state": 3
     },
-    "effort_count": 358593,
-    "athlete_count": 126518,
-    "star_count": 6715,
+    "effort_count": 359271,
+    "athlete_count": 126731,
+    "star_count": 6727,
     "athlete_segment_stats": {
       "pr_elapsed_time": 87,
       "pr_date": "2021-09-19",
@@ -3125,7 +3132,7 @@
     },
     "xoms": {
       "kom": "44s",
-      "qom": "1:08",
+      "qom": "1:06",
       "overall": "44s",
       "destination": {
         "href": "strava://segments/640400/leaderboard",
@@ -3137,11 +3144,11 @@
       "athlete_id": 82231967,
       "title": "Krzysztof Kesicki",
       "profile": "https://lh3.googleusercontent.com/a/ACg8ocKA_OPWrmgqjQVYOxi5PCRr9xCLUw22z3lutqYBqvnYQmecBQ=s96-c",
-      "effort_description": "30 efforts in the last 90 days",
-      "effort_count": "30",
+      "effort_description": "29 efforts in the last 90 days",
+      "effort_count": "29",
       "effort_counts": {
-        "overall": "30 efforts",
-        "female": "4 efforts"
+        "overall": "29 efforts",
+        "female": "3 efforts"
       },
       "destination": "strava://segments/640400/local_legend?categories%5B%5D=overall"
     },
@@ -3192,8 +3199,8 @@
       "polyline": "cdkuHmuoVJiAHwED_BL{AJk@Te@zC}ERK",
       "resource_state": 3
     },
-    "effort_count": 92047,
-    "athlete_count": 16902,
+    "effort_count": 92157,
+    "athlete_count": 16921,
     "star_count": 11,
     "athlete_segment_stats": {
       "pr_elapsed_time": 48,
@@ -3214,14 +3221,14 @@
       }
     },
     "local_legend": {
-      "athlete_id": 12206784,
-      "title": "The Dark Knight",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/12206784/19342594/19/large.jpg",
+      "athlete_id": 75540077,
+      "title": "Kato Claeys",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/75540077/29026901/1/large.jpg",
       "effort_description": "27 efforts in the last 90 days",
       "effort_count": "27",
       "effort_counts": {
         "overall": "27 efforts",
-        "female": "26 efforts"
+        "female": "27 efforts"
       },
       "destination": "strava://segments/912209/local_legend?categories%5B%5D=overall"
     },
@@ -3272,8 +3279,8 @@
       "polyline": "efeuH_qmW`EdDtDjCbAV`EFn@If@Ob@]~@kAdAmBx@cATYn@[",
       "resource_state": 3
     },
-    "effort_count": 25471,
-    "athlete_count": 6330,
+    "effort_count": 25500,
+    "athlete_count": 6338,
     "star_count": 25,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -3297,10 +3304,10 @@
       "athlete_id": 10073709,
       "title": "Patrick Godart",
       "profile": "avatar/athlete/large.png",
-      "effort_description": "37 efforts in the last 90 days",
-      "effort_count": "37",
+      "effort_description": "24 efforts in the last 90 days",
+      "effort_count": "24",
       "effort_counts": {
-        "overall": "37 efforts",
+        "overall": "24 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/2975835/local_legend?categories%5B%5D=overall"
@@ -3352,8 +3359,8 @@
       "polyline": "ehjuHkl{Uf@j@x@fBn@`AvAbAz@h@XVRZXh@FXPlCHXZ`@T`@NP^NZVvApBDHBp@]~By@jDOf@m@fA[nAc@vBw@xEKfAiCnQ",
       "resource_state": 3
     },
-    "effort_count": 15696,
-    "athlete_count": 4867,
+    "effort_count": 15715,
+    "athlete_count": 4875,
     "star_count": 31,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -3432,8 +3439,8 @@
       "polyline": "_d}uHaziUHIPu@HQ^q@`@}@`BwEJKLC^NZGb@o@^}@LQLINA",
       "resource_state": 3
     },
-    "effort_count": 12450,
-    "athlete_count": 4045,
+    "effort_count": 12461,
+    "athlete_count": 4049,
     "star_count": 27,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -3454,9 +3461,9 @@
       }
     },
     "local_legend": {
-      "athlete_id": 13040349,
-      "title": "Dries Notte",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/13040349/14856029/1/large.jpg",
+      "athlete_id": 35489464,
+      "title": "wim pira",
+      "profile": "https://lh3.googleusercontent.com/a/ACg8ocLe44At7OEfyQXwLrF5bGM4qCw71qQD-ic7xslpkUvddaf_oQ=s96-c",
       "effort_description": "8 efforts in the last 90 days",
       "effort_count": "8",
       "effort_counts": {
@@ -3512,8 +3519,8 @@
       "polyline": "kgxtHi{aUqAZ[OSe@wA}E}BaJq@iBc@qBc@eDg@oB}@iB_AcAsAu@gAOk@F[Po@f@EJkBbB]Rq@RQCkAmAg@[u@KI@[AiAJk@?SCQIcBkAq@u@eAoAe@y@a@a@{@?IAaC?i@I}@e@WUYg@uB}F}@eBkAoBm@}@_EiG}DsGQa@kA}Ag@y@Y]CF",
       "resource_state": 3
     },
-    "effort_count": 17494,
-    "athlete_count": 5693,
+    "effort_count": 17535,
+    "athlete_count": 5699,
     "star_count": 11,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
@@ -3537,11 +3544,11 @@
       "athlete_id": 2593834,
       "title": "Chariel 🏊🏽‍♂️🚴🏾‍♀️🏃🏿‍♀️",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2593834/914243/16/large.jpg",
-      "effort_description": "17 efforts in the last 90 days",
-      "effort_count": "17",
+      "effort_description": "20 efforts in the last 90 days",
+      "effort_count": "20",
       "effort_counts": {
-        "overall": "17 efforts",
-        "female": "17 efforts"
+        "overall": "20 efforts",
+        "female": "20 efforts"
       },
       "destination": "strava://segments/14627258/local_legend?categories%5B%5D=overall"
     },
@@ -3592,9 +3599,9 @@
       "polyline": "{a`uHqxoU@u@`@}FJ}@Ne@T[dAw@n@q@`F{HzEcI|C_F|EaI",
       "resource_state": 3
     },
-    "effort_count": 24453,
-    "athlete_count": 13342,
-    "star_count": 1686,
+    "effort_count": 24504,
+    "athlete_count": 13370,
+    "star_count": 1689,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
       "pr_date": null,
@@ -3617,10 +3624,10 @@
       "athlete_id": 27327193,
       "title": "Renaat Jonckheere",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/27327193/24722298/1/large.jpg",
-      "effort_description": "4 efforts in the last 90 days",
-      "effort_count": "4",
+      "effort_description": "3 efforts in the last 90 days",
+      "effort_count": "3",
       "effort_counts": {
-        "overall": "4 efforts",
+        "overall": "3 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/19651432/local_legend?categories%5B%5D=overall"
@@ -3672,9 +3679,9 @@
       "polyline": "g~auHg_`UX_DD[d@iAd@{@Vc@Na@f@}Ad@yBFEJCVB`@CRKd@K`@BREXAl@H^JhAfAFCFKv@iFt@yFj@kD",
       "resource_state": 3
     },
-    "effort_count": 164252,
-    "athlete_count": 81612,
-    "star_count": 434,
+    "effort_count": 164334,
+    "athlete_count": 81668,
+    "star_count": 435,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
       "pr_date": null,
@@ -3697,10 +3704,10 @@
       "athlete_id": 156608918,
       "title": "Tom Roose",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/156608918/36352982/1/large.jpg",
-      "effort_description": "3 efforts in the last 90 days",
-      "effort_count": "3",
+      "effort_description": "2 efforts in the last 90 days",
+      "effort_count": "2",
       "effort_counts": {
-        "overall": "3 efforts",
+        "overall": "2 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/642009/local_legend?categories%5B%5D=overall"
@@ -3752,8 +3759,8 @@
       "polyline": "aybuHqqpUqCuBY_@UaA[cCAe@LsA?QEYSc@Ua@mC{DM[c@iBa@{@{DyD_AkA{AaB{@iA]u@u@oA?DB@MW",
       "resource_state": 3
     },
-    "effort_count": 69636,
-    "athlete_count": 31233,
+    "effort_count": 69756,
+    "athlete_count": 31292,
     "star_count": 368,
     "athlete_segment_stats": {
       "pr_elapsed_time": 155,
@@ -3777,10 +3784,10 @@
       "athlete_id": 48848512,
       "title": "William Cardeli",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/48848512/13267700/18/large.jpg",
-      "effort_description": "11 efforts in the last 90 days",
-      "effort_count": "11",
+      "effort_description": "9 efforts in the last 90 days",
+      "effort_count": "9",
       "effort_counts": {
-        "overall": "11 efforts",
+        "overall": "9 efforts",
         "female": "8 efforts"
       },
       "destination": "strava://segments/798765/local_legend?categories%5B%5D=overall"
@@ -3832,8 +3839,8 @@
       "polyline": "_pauHismU|BeCR]Ne@^gBNc@R]jHiItBkCp@mAl@_BfBeF|B{IDWFeA@WAm@_@uDKq@IwBOwBc@_ECq@XoIAyDCmA",
       "resource_state": 3
     },
-    "effort_count": 24387,
-    "athlete_count": 9467,
+    "effort_count": 24433,
+    "athlete_count": 9472,
     "star_count": 1,
     "athlete_segment_stats": {
       "pr_elapsed_time": 174,
@@ -3912,9 +3919,9 @@
       "polyline": "y|_uHeqcUIY[mCOiAaAuFI{@OoE?c@^aLF{F",
       "resource_state": 3
     },
-    "effort_count": 298004,
-    "athlete_count": 110222,
-    "star_count": 1829,
+    "effort_count": 298256,
+    "athlete_count": 110359,
+    "star_count": 1831,
     "athlete_segment_stats": {
       "pr_elapsed_time": 100,
       "pr_date": "2020-06-27",
@@ -3925,7 +3932,7 @@
     },
     "xoms": {
       "kom": "1:01",
-      "qom": "1:26",
+      "qom": "1:18",
       "overall": "1:01",
       "destination": {
         "href": "strava://segments/19452944/leaderboard",
@@ -3937,10 +3944,10 @@
       "athlete_id": 37131802,
       "title": "Hasan Thooft",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37131802/11047290/3/large.jpg",
-      "effort_description": "41 efforts in the last 90 days",
-      "effort_count": "41",
+      "effort_description": "40 efforts in the last 90 days",
+      "effort_count": "40",
       "effort_counts": {
-        "overall": "41 efforts",
+        "overall": "40 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/19452944/local_legend?categories%5B%5D=overall"
@@ -3992,8 +3999,8 @@
       "polyline": "g{`uHgw~U|AuCb@s@rCyCb@i@nA}Bl@oAd@w@`ByBxAyA",
       "resource_state": 3
     },
-    "effort_count": 117684,
-    "athlete_count": 53075,
+    "effort_count": 117799,
+    "athlete_count": 53137,
     "star_count": 46,
     "athlete_segment_stats": {
       "pr_elapsed_time": 68,
@@ -4017,10 +4024,10 @@
       "athlete_id": 9342484,
       "title": "Chris van Twembeke",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/9342484/27195661/4/large.jpg",
-      "effort_description": "30 efforts in the last 90 days",
-      "effort_count": "30",
+      "effort_description": "28 efforts in the last 90 days",
+      "effort_count": "28",
       "effort_counts": {
-        "overall": "30 efforts",
+        "overall": "28 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/1057617/local_legend?categories%5B%5D=overall"
@@ -4072,9 +4079,9 @@
       "polyline": "_mcuHqydTk@b@U\\c@hAm@lB[b@g@Vw@Hk@NuATuD`AUJa@\\s@dA_@~@c@~BeBfOQjBMr@WxB",
       "resource_state": 3
     },
-    "effort_count": 252836,
-    "athlete_count": 42381,
-    "star_count": 895,
+    "effort_count": 253262,
+    "athlete_count": 42453,
+    "star_count": 896,
     "athlete_segment_stats": {
       "pr_elapsed_time": 78,
       "pr_date": "2023-09-19",
@@ -4097,11 +4104,11 @@
       "athlete_id": 45392676,
       "title": "Franky Bijttebier",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/45392676/12645329/1/large.jpg",
-      "effort_description": "35 efforts in the last 90 days",
-      "effort_count": "35",
+      "effort_description": "37 efforts in the last 90 days",
+      "effort_count": "37",
       "effort_counts": {
-        "overall": "35 efforts",
-        "female": "21 efforts"
+        "overall": "37 efforts",
+        "female": "20 efforts"
       },
       "destination": "strava://segments/17111802/local_legend?categories%5B%5D=overall"
     },
@@ -4152,9 +4159,9 @@
       "polyline": "gacuHse}UyAv@a@Xi@h@eAhCsBnF]x@c@j@c@b@]n@o@|B_@`AW^cBnAgAhA",
       "resource_state": 3
     },
-    "effort_count": 260656,
-    "athlete_count": 89705,
-    "star_count": 1910,
+    "effort_count": 260897,
+    "athlete_count": 89788,
+    "star_count": 1913,
     "athlete_segment_stats": {
       "pr_elapsed_time": 71,
       "pr_date": "2023-05-28",
@@ -4190,32 +4197,35 @@
       "segment_id": 20023906,
       "ourKOM": false,
       "attempted": true,
-      "ourTime": "0:57",
+      "ourTime": "57s",
       "attempts": [
         {
           "poging_nr": 1,
           "posts": [
             {
               "post_id": 1,
-              "naam_segment": "valkenberg",
+              "naam_segment": "Valkenberg",
               "instagram_link": "https://www.instagram.com/p/DJFAYOgsF3V/",
               "segment_id": 20023906,
               "poging_nr": 1,
-              "beschrijving": "intro before attempt",
+              "beschrijving": "The plan",
               "fail_succes": "fail",
-              "volgorde": 1
+              "volgorde": 1,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 2,
-              "naam_segment": "valkenberg",
+              "naam_segment": "Valkenberg",
               "instagram_link": "https://www.instagram.com/p/DJFAyrgMcUY/",
               "segment_id": 20023906,
               "poging_nr": 1,
-              "beschrijving": "after attempt",
+              "beschrijving": "Post attempt analysis",
               "fail_succes": "fail",
-              "volgorde": 2
+              "volgorde": 2,
+              "alternative_attempt_title": null
             }
-          ]
+          ],
+          "attempt_title": null
         },
         {
           "poging_nr": 2,
@@ -4226,9 +4236,10 @@
               "instagram_link": "https://www.instagram.com/p/DJgyhcnspsZ/",
               "segment_id": 20023906,
               "poging_nr": 2,
-              "beschrijving": "before the 2nd Valkenberg attempt",
+              "beschrijving": "Getting ready for a new Valkenberg attempt",
               "fail_succes": "succes",
-              "volgorde": 1
+              "volgorde": 1,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 13,
@@ -4236,9 +4247,10 @@
               "instagram_link": "https://www.instagram.com/p/DJhimSQO6TK/",
               "segment_id": 20023906,
               "poging_nr": 2,
-              "beschrijving": "KOM attempt on board",
+              "beschrijving": "Valkenberg KOM attempt on board",
               "fail_succes": "succes",
-              "volgorde": 2
+              "volgorde": 2,
+              "alternative_attempt_title": null
             },
             {
               "post_id": 14,
@@ -4246,11 +4258,13 @@
               "instagram_link": "https://www.instagram.com/p/DJg5uUHMcIW/",
               "segment_id": 20023906,
               "poging_nr": 2,
-              "beschrijving": "post attempt power analysis",
+              "beschrijving": "Post attempt power analysis (Huuge watts)",
               "fail_succes": "succes",
-              "volgorde": 3
+              "volgorde": 3,
+              "alternative_attempt_title": null
             }
-          ]
+          ],
+          "attempt_title": null
         }
       ]
     }
@@ -4293,9 +4307,9 @@
       "polyline": "ktduH{blUs@u@m@UuFk@c@Q{CcCcEaCYKwAWyEu@[FqCx@UGwEoBeA[g@EQD_B|@e@Nc@R",
       "resource_state": 3
     },
-    "effort_count": 74914,
-    "athlete_count": 30467,
-    "star_count": 1876,
+    "effort_count": 75025,
+    "athlete_count": 30512,
+    "star_count": 1881,
     "athlete_segment_stats": {
       "pr_elapsed_time": 213,
       "pr_date": "2018-05-02",
@@ -4315,9 +4329,9 @@
       }
     },
     "local_legend": {
-      "athlete_id": 34892467,
-      "title": "Lander Soens",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/34892467/10838934/2/large.jpg",
+      "athlete_id": 137802465,
+      "title": "Tommy De Baere",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/137802465/31347351/9/large.jpg",
       "effort_description": "8 efforts in the last 90 days",
       "effort_count": "8",
       "effort_counts": {
@@ -4373,8 +4387,8 @@
       "polyline": "c{huHa_eU\\oB^gEF]jBoGp@kEbAcIDq@JaFJeADUHOt@gAtAgBN[",
       "resource_state": 3
     },
-    "effort_count": 28469,
-    "athlete_count": 13202,
+    "effort_count": 28488,
+    "athlete_count": 13212,
     "star_count": 63,
     "athlete_segment_stats": {
       "pr_elapsed_time": 160,
@@ -4453,9 +4467,9 @@
       "polyline": "m_iuHwheUm@kEQ}AEaBg@yEs@uE[}ASiDg@yDm@}DQwDUaD",
       "resource_state": 3
     },
-    "effort_count": 209026,
-    "athlete_count": 79245,
-    "star_count": 2001,
+    "effort_count": 209202,
+    "athlete_count": 79333,
+    "star_count": 2002,
     "athlete_segment_stats": {
       "pr_elapsed_time": 84,
       "pr_date": "2023-05-28",
@@ -4475,13 +4489,13 @@
       }
     },
     "local_legend": {
-      "athlete_id": 15427420,
-      "title": "Theo  Velasco",
-      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/15427420/20403511/19/large.jpg",
-      "effort_description": "11 efforts in the last 90 days",
-      "effort_count": "11",
+      "athlete_id": 17902898,
+      "title": "Jens Van Driessche",
+      "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/17902898/36105562/1/large.jpg",
+      "effort_description": "13 efforts in the last 90 days",
+      "effort_count": "13",
       "effort_counts": {
-        "overall": "11 efforts",
+        "overall": "13 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/19631579/local_legend?categories%5B%5D=overall"
@@ -4492,7 +4506,58 @@
       "ourKOM": true,
       "attempted": false,
       "ourTime": null,
-      "attempts": []
+      "attempts": [
+        {
+          "poging_nr": 1,
+          "posts": [
+            {
+              "post_id": 31,
+              "naam_segment": "Wolvenberg",
+              "instagram_link": "https://www.instagram.com/p/DMIdr_6NNbH/",
+              "segment_id": 19631579,
+              "poging_nr": 1,
+              "beschrijving": "Watch our community fly up this climb ðŸ¤©",
+              "fail_succes": null,
+              "volgorde": 1,
+              "alternative_attempt_title": "Wolvenberg challenge"
+            },
+            {
+              "post_id": 32,
+              "naam_segment": "Wolvenberg",
+              "instagram_link": "https://www.instagram.com/p/DMYMZzos5kl/",
+              "segment_id": 19631579,
+              "poging_nr": 1,
+              "beschrijving": "The winners of the Wolvenberg challenge",
+              "fail_succes": null,
+              "volgorde": 2,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 33,
+              "naam_segment": "Wolvenberg",
+              "instagram_link": "https://www.instagram.com/p/DMQSNHMt8d5/",
+              "segment_id": 19631579,
+              "poging_nr": 1,
+              "beschrijving": "The challenge made the national news!!",
+              "fail_succes": null,
+              "volgorde": 3,
+              "alternative_attempt_title": null
+            },
+            {
+              "post_id": 34,
+              "naam_segment": "Wolvenberg",
+              "instagram_link": "https://www.instagram.com/p/DMKHNuft7q4/",
+              "segment_id": 19631579,
+              "poging_nr": 1,
+              "beschrijving": "more images of pure speed",
+              "fail_succes": null,
+              "volgorde": 4,
+              "alternative_attempt_title": null
+            }
+          ],
+          "attempt_title": "Wolvenberg challenge"
+        }
+      ]
     }
   },
   {
@@ -4533,9 +4598,9 @@
       "polyline": "ewxtHishUgIhDeATi@Fe@TqDxBo@f@mBtB_@ZkBdAgBv@qB~Ao@x@sCbCyB|B",
       "resource_state": 3
     },
-    "effort_count": 265729,
-    "athlete_count": 84459,
-    "star_count": 3104,
+    "effort_count": 265971,
+    "athlete_count": 84572,
+    "star_count": 3107,
     "athlete_segment_stats": {
       "pr_elapsed_time": 158,
       "pr_date": "2021-03-20",
@@ -4613,8 +4678,8 @@
       "polyline": "uteuHqy`VY}@m@cBe@{@}@qAwBiBeBwB_B_BkB{AsAoAwBcB{JmIoAaAe@c@",
       "resource_state": 3
     },
-    "effort_count": 41316,
-    "athlete_count": 11231,
+    "effort_count": 41373,
+    "athlete_count": 11248,
     "star_count": 81,
     "athlete_segment_stats": {
       "pr_elapsed_time": 120,
@@ -4638,10 +4703,10 @@
       "athlete_id": 28721891,
       "title": "Seppe Petit",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/28721891/8625605/10/large.jpg",
-      "effort_description": "44 efforts in the last 90 days",
-      "effort_count": "44",
+      "effort_description": "45 efforts in the last 90 days",
+      "effort_count": "45",
       "effort_counts": {
-        "overall": "44 efforts",
+        "overall": "45 efforts",
         "female": "3 efforts"
       },
       "destination": "strava://segments/823463/local_legend?categories%5B%5D=overall"
@@ -4693,9 +4758,9 @@
       "polyline": "wz`uH}uhUcBvCc@f@oAh@UVQ^y@bCi@|@q@h@iC`AULMJKRqAvEeCfEeBxAWb@Qp@In@AbBD`@JT|@nA~@zAhBrCpDlIrAjDnHxP",
       "resource_state": 3
     },
-    "effort_count": 31433,
-    "athlete_count": 17219,
-    "star_count": 1639,
+    "effort_count": 31476,
+    "athlete_count": 17575,
+    "star_count": 1641,
     "athlete_segment_stats": {
       "pr_elapsed_time": null,
       "pr_date": null,
@@ -4718,16 +4783,16 @@
       "athlete_id": 5756388,
       "title": "Rogier De Smaele",
       "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/5756388/4652432/2/large.jpg",
-      "effort_description": "4 efforts in the last 90 days",
-      "effort_count": "4",
+      "effort_description": "3 efforts in the last 90 days",
+      "effort_count": "3",
       "effort_counts": {
-        "overall": "4 efforts",
+        "overall": "3 efforts",
         "female": "2 efforts"
       },
       "destination": "strava://segments/19651355/local_legend?categories%5B%5D=overall"
     },
     "kings_data": {
-      "segment_name": "kouterberg?",
+      "segment_name": "kouterberg",
       "segment_id": 19651355,
       "ourKOM": false,
       "attempted": false,
@@ -4773,8 +4838,8 @@
       "polyline": "kbwtHop}TMNq@Zk@d@wAp@oAv@WL[R[Xg@j@q@hAu@`AOZg@r@q@fAwAjBKBU]i@j@gB~Ae@\\_@PYDc@Vm@P]PUHe@Zu@XWXa@Zi@Ze@^c@RQLqAzA_CbD_A~Aq@|ASVMXIJ]RYDa@Lu@j@g@j@GPi@~@GDc@jAMFIBsAIo@?KC",
       "resource_state": 3
     },
-    "effort_count": 68783,
-    "athlete_count": 42313,
+    "effort_count": 68840,
+    "athlete_count": 42364,
     "star_count": 356,
     "athlete_segment_stats": {
       "pr_elapsed_time": 252,
@@ -4807,7 +4872,7 @@
       "destination": "strava://segments/18531364/local_legend?categories%5B%5D=overall"
     },
     "kings_data": {
-      "segment_name": "kruisberg?",
+      "segment_name": "kruisberg",
       "segment_id": 18531364,
       "ourKOM": false,
       "attempted": false,
@@ -4853,8 +4918,8 @@
       "polyline": "_rxtHq}sUwAjEc@d@cAf@sA`AWHO?OI[a@kAwCk@kAe@mAgA_C[c@SAWDyD|Cy@t@]`@]p@O~@IbAUx@KPMH]Hq@BgBC_@BUJUXQf@MXW|@YXMBa@I_@QKKMUCe@OyAMm@AGYWKBKHw@tAs@|Ai@bA_@f@MBO?QEIGe@o@{@cBOMIAI@_@f@aAvBa@`BQfB?d@PlDTpC@d@CVQ~@_@dAqAjC",
       "resource_state": 3
     },
-    "effort_count": 189272,
-    "athlete_count": 37668,
+    "effort_count": 189512,
+    "athlete_count": 37715,
     "star_count": 25,
     "athlete_segment_stats": {
       "pr_elapsed_time": 264,
