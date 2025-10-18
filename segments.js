@@ -2,7 +2,7 @@ export function createSegmentBlock(seg, map, activeSegment){
 
     const block = document.createElement("div");
     block.classList.add("segment-block"); // altijd overkoepelend
-    if(seg.kings_data.ourKOM){
+    if(seg.kings_data.calc_kom){
         block.classList.add("KOM");
     }
     else{
@@ -80,7 +80,7 @@ export function showSegmentDetails(seg){
     container.classList.remove("kom", "no-kom");
 
     // juiste stijl toevoegen
-    if (seg.kings_data.ourKOM) {
+    if (seg.kings_data.calc_kom) {
         container.classList.add("kom");
     } else {
         container.classList.add("no-kom");
@@ -96,7 +96,7 @@ export function showSegmentDetails(seg){
         Location: ${seg.city}, ${seg.state}<br>
         <a href="https://www.strava.com/segments/${seg.id}" target="_blank">View on Strava</a><br><br>
         `
-    if(seg.kings_data.ourKOM){
+    if(seg.kings_data.calc_kom){
         html += `
         <span class = "bold">The KOM is ours!!</span><br>
         `
@@ -260,7 +260,7 @@ export function selectedSegmentView(seg, map){
  * @returns {object} - The style dict
  */
 function getSegmentStyle(seg) {
-    if (seg.kings_data.ourKOM) {
+    if (seg.kings_data.calc_kom) {
         return {
             line_color: 'gold',
             line_edge_color: 'black',
